@@ -11,7 +11,7 @@ function Search() {
       />
       <input type="submit" value="🔍" />
     </form>
-  );
+  ); 
 }
 
 export default Search;
